@@ -1,13 +1,12 @@
 import { useState } from 'react'
 
-
 function App() {
 
   return (
     <>
      <div className='flex justify-around pb-2 '>
         <div >
-        <h1 className='text-red-500 mt-3  font-Lobster  text-4xl'>Pass Generator</h1>
+        <h1 className='text-red-600 mt-3  font-Lobster  text-4xl'>Pass Generator</h1>
         </div>
         <div className='flex gap-12  text-black'>
         <p className='font-poppins mt-6'>Personal</p>
